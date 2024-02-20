@@ -1,0 +1,4 @@
+assists,bonus,bps,clean_sheets,creativity,goals_conceded,goals_scored,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,threat,total_points,transfers_in,transfers_out,value,was_home,yellow_cards,own_FDR,opp_FDR,season,gw,player
+0,0,0,0,0.0,0,0,0.0,2024-01-20T17:30:00Z,0,4,0,0,0,0,21,0,-0.35442242106423255,0.0,0,-0.2516120131319523,-0.2564361056003824,-0.6947247814931957,False,0,2,3,2023-24,21,Jamie_McDonnell
+0,0,0,0,0.0,0,0,0.0,2024-01-30T19:30:00Z,0,1,0,0,0,0,22,0,-0.35437013862806127,0.0,0,-0.2513021820493085,-0.25641996255869215,-0.6947247814931957,True,0,2,4,2023-24,22,Jamie_McDonnell
+0,0,0,0,0.0,0,0,0.0,2024-02-04T14:00:00Z,0,3,0,0,0,0,23,0,-0.35434990026567237,0.0,0,-0.25140076466651334,-0.2563069612668607,-0.6947247814931957,False,0,2,2,2023-24,23,Jamie_McDonnell

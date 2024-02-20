@@ -1,0 +1,5 @@
+assists,bonus,bps,clean_sheets,creativity,goals_conceded,goals_scored,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,threat,total_points,transfers_in,transfers_out,value,was_home,yellow_cards,own_FDR,opp_FDR,season,gw,player
+0,0,0,0,0.0,0,0,0.0,2023-08-13T13:00:00Z,0,18,0,0,0,0,1,0,-0.3528202173751124,0.0,0,-0.2516120131319523,-0.2564361056003824,-0.6947247814931957,True,0,3,3,2023-24,1,Michale_Olakigbe
+0,0,0,0,0.0,0,0,0.0,2023-08-19T14:00:00Z,0,10,0,0,0,0,2,0,-0.35196008697358466,0.0,0,-0.24899253216050907,-0.2536756454713569,-0.6947247814931957,False,0,3,2,2023-24,2,Michale_Olakigbe
+0,0,0,0,0.0,0,0,0.0,2023-08-26T14:00:00Z,0,8,0,0,0,0,3,0,-0.35199887716816336,0.0,0,-0.2503304391082892,-0.25272320601163467,-0.6947247814931957,True,0,3,2,2023-24,3,Michale_Olakigbe
+0,0,1,0,0.8,0,0,0.6,2023-09-02T14:00:00Z,8,3,0,0,0,0,4,0,-0.3519836983963717,7.0,1,-0.2502881894152014,-0.2534173568043136,-0.6947247814931957,True,0,3,2,2023-24,4,Michale_Olakigbe

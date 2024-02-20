@@ -1,0 +1,4 @@
+assists,bonus,bps,clean_sheets,creativity,goals_conceded,goals_scored,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,threat,total_points,transfers_in,transfers_out,value,was_home,yellow_cards,own_FDR,opp_FDR,season,gw,player
+0,0,4,0,0.2,0,0,3.8,2024-01-14T16:30:00Z,5,14,0,0,0,0,21,0,-0.4358460335890306,0.0,1,-0.27287699956835526,-0.29541564553475785,-0.2546516135176717,False,0,3,4,2023-24,21,Radu_Dragusin
+0,0,3,0,0.0,0,0,1.2,2024-01-31T19:30:00Z,2,4,0,0,0,0,22,0,-0.4287822669794054,0.0,1,-0.22216383968865222,-0.28059940470255235,-0.2546516135176717,True,0,3,3,2023-24,22,Radu_Dragusin
+0,0,3,0,0.1,1,0,1.4,2024-02-03T12:30:00Z,1,9,0,0,0,0,23,0,-0.42958380495780324,0.0,1,-0.30035779111071514,-0.27987666124732286,-0.2546516135176717,False,0,3,2,2023-24,23,Radu_Dragusin

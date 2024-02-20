@@ -1,0 +1,3 @@
+assists,bonus,bps,clean_sheets,creativity,goals_conceded,goals_scored,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,threat,total_points,transfers_in,transfers_out,value,was_home,yellow_cards,own_FDR,opp_FDR,season,gw,player
+0,0,0,0,0.0,0,0,0.0,2024-01-30T20:00:00Z,0,17,0,0,0,0,22,0,-0.4379692565318079,0.0,0,-0.2965112457764433,-0.29732288520828026,-0.2546516135176717,True,0,2,2,2023-24,22,Daniel_Muñoz
+0,0,18,0,11.8,4,0,21.0,2024-02-03T15:00:00Z,90,5,0,0,0,0,23,0,-0.43605579778337733,0.0,-1,-0.2857753655151175,-0.2950341976000534,-0.2546516135176717,False,1,2,3,2023-24,23,Daniel_Muñoz

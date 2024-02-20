@@ -1,0 +1,4 @@
+assists,bonus,bps,clean_sheets,creativity,goals_conceded,goals_scored,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,threat,total_points,transfers_in,transfers_out,value,was_home,yellow_cards,own_FDR,opp_FDR,season,gw,player
+0,0,0,0,0.0,0,0,0.0,2024-01-21T14:00:00Z,0,17,0,0,0,0,21,0,-0.42405657117979245,0.0,0,-0.3547413449207552,-0.3624498750678024,-0.8798561681552791,False,0,2,2,2023-24,21,Callum_Marshall
+0,0,0,0,0.0,0,0,0.0,2024-02-01T19:30:00Z,0,3,0,0,0,0,22,0,-0.4239787004291589,0.0,0,-0.35424235091090744,-0.3623389063321224,-0.8798561681552791,True,0,3,2,2023-24,22,Callum_Marshall
+0,0,0,0,0.0,0,0,0.0,2024-02-04T14:00:00Z,0,14,0,0,0,0,23,0,-0.4239944599858348,0.0,0,-0.3547413449207552,-0.3622723250907144,-0.8798561681552791,False,0,2,4,2023-24,23,Callum_Marshall
